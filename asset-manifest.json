@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-keep-note/static/css/main.84adf485.css",
+    "main.js": "/react-keep-note/static/js/main.ca139e3f.js",
+    "index.html": "/react-keep-note/index.html",
+    "main.84adf485.css.map": "/react-keep-note/static/css/main.84adf485.css.map",
+    "main.ca139e3f.js.map": "/react-keep-note/static/js/main.ca139e3f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84adf485.css",
+    "static/js/main.ca139e3f.js"
+  ]
+}
